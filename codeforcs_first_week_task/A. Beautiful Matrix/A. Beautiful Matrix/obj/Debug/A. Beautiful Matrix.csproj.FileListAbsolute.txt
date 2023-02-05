@@ -1,0 +1,8 @@
+G:\A. Beautiful Matrix\A. Beautiful Matrix\bin\Debug\A.Beautiful_Matrix.exe.config
+G:\A. Beautiful Matrix\A. Beautiful Matrix\bin\Debug\A.Beautiful_Matrix.exe
+G:\A. Beautiful Matrix\A. Beautiful Matrix\bin\Debug\A.Beautiful_Matrix.pdb
+G:\A. Beautiful Matrix\A. Beautiful Matrix\obj\Debug\A. Beautiful Matrix.csproj.AssemblyReference.cache
+G:\A. Beautiful Matrix\A. Beautiful Matrix\obj\Debug\A. Beautiful Matrix.csproj.SuggestedBindingRedirects.cache
+G:\A. Beautiful Matrix\A. Beautiful Matrix\obj\Debug\A. Beautiful Matrix.csproj.CoreCompileInputs.cache
+G:\A. Beautiful Matrix\A. Beautiful Matrix\obj\Debug\A.Beautiful_Matrix.exe
+G:\A. Beautiful Matrix\A. Beautiful Matrix\obj\Debug\A.Beautiful_Matrix.pdb

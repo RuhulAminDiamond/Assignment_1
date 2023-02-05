@@ -1,0 +1,8 @@
+G:\A. Stones on the Table\A. Stones on the Table\bin\Debug\A.Stones_on_the_Table.exe.config
+G:\A. Stones on the Table\A. Stones on the Table\bin\Debug\A.Stones_on_the_Table.exe
+G:\A. Stones on the Table\A. Stones on the Table\bin\Debug\A.Stones_on_the_Table.pdb
+G:\A. Stones on the Table\A. Stones on the Table\obj\Debug\A. Stones on the Table.csproj.AssemblyReference.cache
+G:\A. Stones on the Table\A. Stones on the Table\obj\Debug\A. Stones on the Table.csproj.SuggestedBindingRedirects.cache
+G:\A. Stones on the Table\A. Stones on the Table\obj\Debug\A. Stones on the Table.csproj.CoreCompileInputs.cache
+G:\A. Stones on the Table\A. Stones on the Table\obj\Debug\A.Stones_on_the_Table.exe
+G:\A. Stones on the Table\A. Stones on the Table\obj\Debug\A.Stones_on_the_Table.pdb

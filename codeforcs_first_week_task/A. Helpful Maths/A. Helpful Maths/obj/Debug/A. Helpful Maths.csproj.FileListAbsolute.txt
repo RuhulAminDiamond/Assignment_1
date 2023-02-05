@@ -1,0 +1,8 @@
+G:\A. Helpful Maths\A. Helpful Maths\bin\Debug\A.Helpful_Maths.exe.config
+G:\A. Helpful Maths\A. Helpful Maths\bin\Debug\A.Helpful_Maths.exe
+G:\A. Helpful Maths\A. Helpful Maths\bin\Debug\A.Helpful_Maths.pdb
+G:\A. Helpful Maths\A. Helpful Maths\obj\Debug\A. Helpful Maths.csproj.AssemblyReference.cache
+G:\A. Helpful Maths\A. Helpful Maths\obj\Debug\A. Helpful Maths.csproj.SuggestedBindingRedirects.cache
+G:\A. Helpful Maths\A. Helpful Maths\obj\Debug\A. Helpful Maths.csproj.CoreCompileInputs.cache
+G:\A. Helpful Maths\A. Helpful Maths\obj\Debug\A.Helpful_Maths.exe
+G:\A. Helpful Maths\A. Helpful Maths\obj\Debug\A.Helpful_Maths.pdb

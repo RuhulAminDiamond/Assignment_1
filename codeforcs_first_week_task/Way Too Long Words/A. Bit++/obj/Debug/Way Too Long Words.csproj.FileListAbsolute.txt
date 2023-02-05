@@ -1,0 +1,8 @@
+G:\Way Too Long Words\Way Too Long Words\bin\Debug\Way Too Long Words.exe.config
+G:\Way Too Long Words\Way Too Long Words\bin\Debug\Way Too Long Words.exe
+G:\Way Too Long Words\Way Too Long Words\bin\Debug\Way Too Long Words.pdb
+G:\Way Too Long Words\Way Too Long Words\obj\Debug\Way Too Long Words.csproj.AssemblyReference.cache
+G:\Way Too Long Words\Way Too Long Words\obj\Debug\Way Too Long Words.csproj.SuggestedBindingRedirects.cache
+G:\Way Too Long Words\Way Too Long Words\obj\Debug\Way Too Long Words.csproj.CoreCompileInputs.cache
+G:\Way Too Long Words\Way Too Long Words\obj\Debug\Way Too Long Words.exe
+G:\Way Too Long Words\Way Too Long Words\obj\Debug\Way Too Long Words.pdb

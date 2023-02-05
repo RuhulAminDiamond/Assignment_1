@@ -1,0 +1,8 @@
+G:\A. Petya and Strings\A. Petya and Strings\bin\Debug\A.Petya_and_Strings.exe.config
+G:\A. Petya and Strings\A. Petya and Strings\bin\Debug\A.Petya_and_Strings.exe
+G:\A. Petya and Strings\A. Petya and Strings\bin\Debug\A.Petya_and_Strings.pdb
+G:\A. Petya and Strings\A. Petya and Strings\obj\Debug\A. Petya and Strings.csproj.AssemblyReference.cache
+G:\A. Petya and Strings\A. Petya and Strings\obj\Debug\A. Petya and Strings.csproj.SuggestedBindingRedirects.cache
+G:\A. Petya and Strings\A. Petya and Strings\obj\Debug\A. Petya and Strings.csproj.CoreCompileInputs.cache
+G:\A. Petya and Strings\A. Petya and Strings\obj\Debug\A.Petya_and_Strings.exe
+G:\A. Petya and Strings\A. Petya and Strings\obj\Debug\A.Petya_and_Strings.pdb

@@ -1,0 +1,8 @@
+G:\A. String Task\A. String Task\bin\Debug\A.String_Task.exe.config
+G:\A. String Task\A. String Task\bin\Debug\A.String_Task.exe
+G:\A. String Task\A. String Task\bin\Debug\A.String_Task.pdb
+G:\A. String Task\A. String Task\obj\Debug\A. String Task.csproj.AssemblyReference.cache
+G:\A. String Task\A. String Task\obj\Debug\A. String Task.csproj.SuggestedBindingRedirects.cache
+G:\A. String Task\A. String Task\obj\Debug\A. String Task.csproj.CoreCompileInputs.cache
+G:\A. String Task\A. String Task\obj\Debug\A.String_Task.exe
+G:\A. String Task\A. String Task\obj\Debug\A.String_Task.pdb
