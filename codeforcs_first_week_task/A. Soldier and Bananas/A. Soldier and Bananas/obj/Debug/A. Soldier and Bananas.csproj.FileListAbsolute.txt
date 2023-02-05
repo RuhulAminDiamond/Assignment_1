@@ -1,0 +1,8 @@
+G:\A. Soldier and Bananas\A. Soldier and Bananas\bin\Debug\A.Soldier_and_Bananas.exe.config
+G:\A. Soldier and Bananas\A. Soldier and Bananas\bin\Debug\A.Soldier_and_Bananas.exe
+G:\A. Soldier and Bananas\A. Soldier and Bananas\bin\Debug\A.Soldier_and_Bananas.pdb
+G:\A. Soldier and Bananas\A. Soldier and Bananas\obj\Debug\A. Soldier and Bananas.csproj.AssemblyReference.cache
+G:\A. Soldier and Bananas\A. Soldier and Bananas\obj\Debug\A. Soldier and Bananas.csproj.SuggestedBindingRedirects.cache
+G:\A. Soldier and Bananas\A. Soldier and Bananas\obj\Debug\A. Soldier and Bananas.csproj.CoreCompileInputs.cache
+G:\A. Soldier and Bananas\A. Soldier and Bananas\obj\Debug\A.Soldier_and_Bananas.exe
+G:\A. Soldier and Bananas\A. Soldier and Bananas\obj\Debug\A.Soldier_and_Bananas.pdb

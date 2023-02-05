@@ -1,0 +1,8 @@
+G:\A. Bear and Big Brother\A. Bear and Big Brother\bin\Debug\A.Bear_and_Big_Brother.exe.config
+G:\A. Bear and Big Brother\A. Bear and Big Brother\bin\Debug\A.Bear_and_Big_Brother.exe
+G:\A. Bear and Big Brother\A. Bear and Big Brother\bin\Debug\A.Bear_and_Big_Brother.pdb
+G:\A. Bear and Big Brother\A. Bear and Big Brother\obj\Debug\A. Bear and Big Brother.csproj.AssemblyReference.cache
+G:\A. Bear and Big Brother\A. Bear and Big Brother\obj\Debug\A. Bear and Big Brother.csproj.SuggestedBindingRedirects.cache
+G:\A. Bear and Big Brother\A. Bear and Big Brother\obj\Debug\A. Bear and Big Brother.csproj.CoreCompileInputs.cache
+G:\A. Bear and Big Brother\A. Bear and Big Brother\obj\Debug\A.Bear_and_Big_Brother.exe
+G:\A. Bear and Big Brother\A. Bear and Big Brother\obj\Debug\A.Bear_and_Big_Brother.pdb

@@ -1,0 +1,8 @@
+G:\A. Football\A. Football\bin\Debug\A.Football.exe.config
+G:\A. Football\A. Football\bin\Debug\A.Football.exe
+G:\A. Football\A. Football\bin\Debug\A.Football.pdb
+G:\A. Football\A. Football\obj\Debug\A. Football.csproj.AssemblyReference.cache
+G:\A. Football\A. Football\obj\Debug\A. Football.csproj.SuggestedBindingRedirects.cache
+G:\A. Football\A. Football\obj\Debug\A. Football.csproj.CoreCompileInputs.cache
+G:\A. Football\A. Football\obj\Debug\A.Football.exe
+G:\A. Football\A. Football\obj\Debug\A.Football.pdb

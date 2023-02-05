@@ -1,0 +1,8 @@
+G:\A. HQ9+\A. HQ9+\bin\Debug\A.HQ9_.exe.config
+G:\A. HQ9+\A. HQ9+\bin\Debug\A.HQ9_.exe
+G:\A. HQ9+\A. HQ9+\bin\Debug\A.HQ9_.pdb
+G:\A. HQ9+\A. HQ9+\obj\Debug\A. HQ9+.csproj.AssemblyReference.cache
+G:\A. HQ9+\A. HQ9+\obj\Debug\A. HQ9+.csproj.SuggestedBindingRedirects.cache
+G:\A. HQ9+\A. HQ9+\obj\Debug\A. HQ9+.csproj.CoreCompileInputs.cache
+G:\A. HQ9+\A. HQ9+\obj\Debug\A.HQ9_.exe
+G:\A. HQ9+\A. HQ9+\obj\Debug\A.HQ9_.pdb

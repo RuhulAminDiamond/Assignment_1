@@ -1,0 +1,8 @@
+G:\A. Wrong Subtraction\A. Wrong Subtraction\bin\Debug\A.Wrong_Subtraction.exe.config
+G:\A. Wrong Subtraction\A. Wrong Subtraction\bin\Debug\A.Wrong_Subtraction.exe
+G:\A. Wrong Subtraction\A. Wrong Subtraction\bin\Debug\A.Wrong_Subtraction.pdb
+G:\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\A. Wrong Subtraction.csproj.AssemblyReference.cache
+G:\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\A. Wrong Subtraction.csproj.SuggestedBindingRedirects.cache
+G:\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\A. Wrong Subtraction.csproj.CoreCompileInputs.cache
+G:\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\A.Wrong_Subtraction.exe
+G:\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\A.Wrong_Subtraction.pdb
